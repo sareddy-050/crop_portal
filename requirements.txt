@@ -11,3 +11,4 @@ python-dotenv>=1.0
 
 # Google OAuth — uncomment if using Google login
 # google-auth>=2.23
+gunicorn>=21.2
